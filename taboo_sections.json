@@ -1,0 +1,1514 @@
+{
+  "settings": {
+    "template": "Taboo!.pptx",
+    "output": "Taboo!_FromSections.pptx",
+    "seed": 20261127,
+    "shuffle_cards": true,
+    "banned_count": 4,
+    "number_start": 1,
+    "footer_format": "Taboo • {section}",
+    "front_slide_indices": [
+      1,
+      2,
+      3
+    ],
+    "final_slide_index": -1,
+    "begin_button_text": "Begin!",
+    "shuffle_sections": true,
+    "number_box_width": 600000,
+    "intro_section_name": "Taboo!",
+    "end_section_name": "End"
+  },
+  "sections": [
+    {
+      "name": "General",
+      "cards": [
+        {
+          "word": "Park",
+          "banned": [
+            "Grass",
+            "Bench",
+            "Playground",
+            "Outdoor"
+          ],
+          "source_word": "Park"
+        },
+        {
+          "word": "Calendar",
+          "banned": [
+            "Dates",
+            "Planner",
+            "Schedule",
+            "Year"
+          ],
+          "source_word": "Calendar"
+        },
+        {
+          "word": "Window",
+          "banned": [
+            "Glass",
+            "Pane",
+            "Sill",
+            "View"
+          ],
+          "source_word": "Window"
+        },
+        {
+          "word": "Computer",
+          "banned": [
+            "Laptop",
+            "Screen",
+            "Keyboard",
+            "Processor"
+          ],
+          "source_word": "Computer"
+        },
+        {
+          "word": "Taboo",
+          "banned": [
+            "We",
+            "Banned",
+            "Game",
+            "This"
+          ],
+          "source_word": "Taboo"
+        },
+        {
+          "word": "Lightbulb",
+          "banned": [
+            "Filament",
+            "Glow",
+            "Switch",
+            "Edison"
+          ],
+          "source_word": "Lightbulb"
+        },
+        {
+          "word": "Piggy Bank",
+          "banned": [
+            "Coins",
+            "Savings",
+            "Ceramic",
+            "Slot"
+          ],
+          "source_word": "Piggy Bank"
+        },
+        {
+          "word": "Book",
+          "banned": [
+            "Novel",
+            "Pages",
+            "Author",
+            "Library"
+          ],
+          "source_word": "Book"
+        },
+        {
+          "word": "Museum",
+          "banned": [
+            "Exhibit",
+            "Gallery",
+            "Curator",
+            "Artifact"
+          ],
+          "source_word": "Museum"
+        },
+        {
+          "word": "Laundry",
+          "banned": [
+            "Washing Machine",
+            "Detergent",
+            "Basket",
+            "Clothes"
+          ],
+          "source_word": "Laundry"
+        },
+        {
+          "word": "Bed",
+          "banned": [
+            "Mattress",
+            "Pillow",
+            "Blanket",
+            "Dream"
+          ],
+          "source_word": "Bed"
+        },
+        {
+          "word": "United Kingdom",
+          "banned": [
+            "Britain",
+            "England",
+            "London",
+            "Commonwealth"
+          ],
+          "source_word": "United Kingdom"
+        },
+        {
+          "word": "Volcano",
+          "banned": [
+            "Lava",
+            "Crater",
+            "Eruption",
+            "Magma"
+          ],
+          "source_word": "Volcano"
+        },
+        {
+          "word": "School",
+          "banned": [
+            "Classroom",
+            "Teacher",
+            "Homework",
+            "Pupil"
+          ],
+          "source_word": "School"
+        },
+        {
+          "word": "Socket",
+          "banned": [
+            "Plug",
+            "Outlet",
+            "Electrical",
+            "Adapter"
+          ],
+          "source_word": "Socket"
+        },
+        {
+          "word": "Train",
+          "banned": [
+            "Railway",
+            "Station",
+            "Carriage",
+            "Timetable"
+          ],
+          "source_word": "Train"
+        },
+        {
+          "word": "Toy",
+          "banned": [
+            "Game",
+            "Doll",
+            "Plaything",
+            "Child"
+          ],
+          "source_word": "Toy"
+        },
+        {
+          "word": "Paste",
+          "banned": [
+            "Copy",
+            "Clipboard",
+            "Ctrl V",
+            "Insert"
+          ],
+          "source_word": "Paste"
+        },
+        {
+          "word": "Movie",
+          "banned": [
+            "Cinema",
+            "Film",
+            "Screen",
+            "Popcorn"
+          ],
+          "source_word": "Movie"
+        },
+        {
+          "word": "Camping",
+          "banned": [
+            "Tent",
+            "Campfire",
+            "Sleeping Bag",
+            "Campsite"
+          ],
+          "source_word": "Camping"
+        },
+        {
+          "word": "Plant",
+          "banned": [
+            "Seed",
+            "Soil",
+            "Pot",
+            "Photosynthesis"
+          ],
+          "source_word": "Plant"
+        },
+        {
+          "word": "Clock",
+          "banned": [
+            "Time",
+            "Hands",
+            "Alarm",
+            "Minute"
+          ],
+          "source_word": "Clock"
+        },
+        {
+          "word": "Bin",
+          "banned": [
+            "Rubbish",
+            "Trash",
+            "Litter",
+            "Lid"
+          ],
+          "source_word": "Bin"
+        },
+        {
+          "word": "Mountain",
+          "banned": [
+            "Peak",
+            "Summit",
+            "Hike",
+            "Cliff"
+          ],
+          "source_word": "Mountain"
+        },
+        {
+          "word": "Mirror",
+          "banned": [
+            "Reflection",
+            "Glass",
+            "Selfie",
+            "Vanity"
+          ],
+          "source_word": "Mirror"
+        },
+        {
+          "word": "Dictate",
+          "banned": [
+            "Voice",
+            "Recording",
+            "Transcript",
+            "Speech"
+          ],
+          "source_word": "Dictate"
+        },
+        {
+          "word": "Stairs",
+          "banned": [
+            "Steps",
+            "Railing",
+            "Climb",
+            "Landing"
+          ],
+          "source_word": "Stairs"
+        },
+        {
+          "word": "Wardrobe",
+          "banned": [
+            "Clothes",
+            "Hanger",
+            "Cupboard",
+            "Drawer"
+          ],
+          "source_word": "Wardrobe"
+        },
+        {
+          "word": "Bookshelf",
+          "banned": [
+            "Books",
+            "Shelf",
+            "Novels",
+            "Stack"
+          ],
+          "source_word": "Bookshelf"
+        },
+        {
+          "word": "Tissue",
+          "banned": [
+            "Sneeze",
+            "Nose",
+            "Paper",
+            "Hankie"
+          ],
+          "source_word": "Tissue"
+        },
+        {
+          "word": "Ski",
+          "banned": [
+            "Slope",
+            "Snow",
+            "Lift",
+            "Winter"
+          ],
+          "source_word": "Ski"
+        },
+        {
+          "word": "Umbrella",
+          "banned": [
+            "Rain",
+            "Canopy",
+            "Wet",
+            "Collapsible"
+          ]
+        },
+        {
+          "word": "Traffic Light",
+          "banned": [
+            "Red",
+            "Amber",
+            "Green",
+            "Road"
+          ]
+        },
+        {
+          "word": "Kettle",
+          "banned": [
+            "Boil",
+            "Water",
+            "Steam",
+            "Tea"
+          ]
+        },
+        {
+          "word": "Scissors",
+          "banned": [
+            "Cut",
+            "Blades",
+            "Craft",
+            "Paper"
+          ]
+        },
+        {
+          "word": "Shopping",
+          "banned": [
+            "Basket",
+            "Till",
+            "Shop",
+            "Buy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Food",
+      "cards": [
+        {
+          "word": "Burger",
+          "banned": [
+            "Patty",
+            "Bun",
+            "Beef",
+            "Grill"
+          ],
+          "source_word": "Burger"
+        },
+        {
+          "word": "Fries",
+          "banned": [
+            "Potato",
+            "Chips",
+            "Fast Food",
+            "Salt"
+          ],
+          "source_word": "Fries"
+        },
+        {
+          "word": "Iceberg Lettuce",
+          "banned": [
+            "Crisp",
+            "Salad",
+            "Green",
+            "Crunchy"
+          ],
+          "source_word": "Iceberg Lettice"
+        },
+        {
+          "word": "Cucumber",
+          "banned": [
+            "Vegetable",
+            "Salad",
+            "Green",
+            "Slice"
+          ],
+          "source_word": "Cucumber"
+        },
+        {
+          "word": "Chicken",
+          "banned": [
+            "Poultry",
+            "Hen",
+            "Nuggets",
+            "Roast"
+          ],
+          "source_word": "Chicken"
+        },
+        {
+          "word": "Chicken Tikka Masala",
+          "banned": [
+            "Curry",
+            "Spices",
+            "Yogurt",
+            "Indian"
+          ],
+          "source_word": "Chicken Tikka Masala"
+        },
+        {
+          "word": "Tomato",
+          "banned": [
+            "Red",
+            "Ketchup",
+            "Salad",
+            "Vine"
+          ],
+          "source_word": "Tomato"
+        },
+        {
+          "word": "Bacon",
+          "banned": [
+            "Pork",
+            "Crispy",
+            "Breakfast",
+            "Streaky"
+          ],
+          "source_word": "Bacon"
+        },
+        {
+          "word": "Sausages",
+          "banned": [
+            "Meat",
+            "Grill",
+            "Breakfast",
+            "Links"
+          ],
+          "source_word": "Sausages"
+        },
+        {
+          "word": "Paprika",
+          "banned": [
+            "Spice",
+            "Seasoning",
+            "Red",
+            "Hungarian"
+          ],
+          "source_word": "Paprika"
+        },
+        {
+          "word": "Pizza",
+          "banned": [
+            "Cheese",
+            "Slice",
+            "Toppings",
+            "Oven"
+          ]
+        },
+        {
+          "word": "Sandwich",
+          "banned": [
+            "Bread",
+            "Filling",
+            "Lunch",
+            "Toast"
+          ]
+        },
+        {
+          "word": "Pancakes",
+          "banned": [
+            "Breakfast",
+            "Syrup",
+            "Fluffy",
+            "Griddle"
+          ]
+        },
+        {
+          "word": "Chocolate",
+          "banned": [
+            "Cocoa",
+            "Sweet",
+            "Bar",
+            "Melt"
+          ]
+        },
+        {
+          "word": "Spaghetti",
+          "banned": [
+            "Pasta",
+            "Noodles",
+            "Sauce",
+            "Italian"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Animals",
+      "cards": [
+        {
+          "word": "Lion",
+          "banned": [
+            "Mane",
+            "Roar",
+            "Savannah",
+            "Pride"
+          ]
+        },
+        {
+          "word": "Elephant",
+          "banned": [
+            "Trunk",
+            "Tusk",
+            "Grey",
+            "Herd"
+          ]
+        },
+        {
+          "word": "Penguin",
+          "banned": [
+            "Antarctic",
+            "Waddle",
+            "Black",
+            "Tuxedo"
+          ]
+        },
+        {
+          "word": "Dolphin",
+          "banned": [
+            "Ocean",
+            "Sonar",
+            "Flipper",
+            "Smart"
+          ]
+        },
+        {
+          "word": "Giraffe",
+          "banned": [
+            "Tall",
+            "Neck",
+            "Spots",
+            "Savannah"
+          ]
+        },
+        {
+          "word": "Kangaroo",
+          "banned": [
+            "Pouch",
+            "Hop",
+            "Australia",
+            "Joey"
+          ]
+        },
+        {
+          "word": "Sloth",
+          "banned": [
+            "Slow",
+            "Hanging",
+            "Trees",
+            "Lazy"
+          ]
+        },
+        {
+          "word": "Owl",
+          "banned": [
+            "Hoot",
+            "Night",
+            "Feathers",
+            "Wise"
+          ]
+        },
+        {
+          "word": "Shark",
+          "banned": [
+            "Teeth",
+            "Ocean",
+            "Fin",
+            "Predator"
+          ]
+        },
+        {
+          "word": "Tortoise",
+          "banned": [
+            "Shell",
+            "Slow",
+            "Reptile",
+            "Long-lived"
+          ]
+        },
+        {
+          "word": "Rabbit",
+          "banned": [
+            "Ears",
+            "Hop",
+            "Carrot",
+            "Burrow"
+          ]
+        },
+        {
+          "word": "Horse",
+          "banned": [
+            "Gallop",
+            "Saddle",
+            "Stable",
+            "Neigh"
+          ]
+        },
+        {
+          "word": "Bee",
+          "banned": [
+            "Hive",
+            "Honey",
+            "Sting",
+            "Pollinate"
+          ]
+        },
+        {
+          "word": "Frog",
+          "banned": [
+            "Amphibian",
+            "Croak",
+            "Pond",
+            "Tadpole"
+          ]
+        },
+        {
+          "word": "Whale",
+          "banned": [
+            "Blubber",
+            "Ocean",
+            "Blowhole",
+            "Migrate"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Travel & Transport",
+      "cards": [
+        {
+          "word": "Airport",
+          "banned": [
+            "Plane",
+            "Luggage",
+            "Terminal",
+            "Security"
+          ]
+        },
+        {
+          "word": "Bicycle",
+          "banned": [
+            "Pedal",
+            "Chain",
+            "Helmet",
+            "Two wheels"
+          ]
+        },
+        {
+          "word": "Bus",
+          "banned": [
+            "Route",
+            "Stop",
+            "Driver",
+            "Ticket"
+          ]
+        },
+        {
+          "word": "Taxi",
+          "banned": [
+            "Cab",
+            "Fare",
+            "Meter",
+            "Ride"
+          ]
+        },
+        {
+          "word": "Ship",
+          "banned": [
+            "Deck",
+            "Ocean",
+            "Cabin",
+            "Voyage"
+          ]
+        },
+        {
+          "word": "Subway",
+          "banned": [
+            "Underground",
+            "Tunnel",
+            "Train",
+            "Station"
+          ]
+        },
+        {
+          "word": "Backpack",
+          "banned": [
+            "Bag",
+            "Hiking",
+            "Straps",
+            "Travel"
+          ]
+        },
+        {
+          "word": "Passport",
+          "banned": [
+            "Travel",
+            "Stamp",
+            "Identity",
+            "Border"
+          ]
+        },
+        {
+          "word": "Hotel",
+          "banned": [
+            "Room",
+            "Stay",
+            "Lobby",
+            "Booking"
+          ]
+        },
+        {
+          "word": "Map",
+          "banned": [
+            "Navigate",
+            "Route",
+            "Compass",
+            "Directions"
+          ]
+        },
+        {
+          "word": "Train Station",
+          "banned": [
+            "Platform",
+            "Timetable",
+            "Tracks",
+            "Departure"
+          ]
+        },
+        {
+          "word": "Ferry",
+          "banned": [
+            "Boat",
+            "Crossing",
+            "Sea",
+            "Vehicle"
+          ]
+        },
+        {
+          "word": "Motorcycle",
+          "banned": [
+            "Helmet",
+            "Handlebar",
+            "Engine",
+            "Ride"
+          ]
+        },
+        {
+          "word": "Camper Van",
+          "banned": [
+            "Road trip",
+            "Sleep",
+            "Wheels",
+            "Kitchen"
+          ]
+        },
+        {
+          "word": "Suitcase",
+          "banned": [
+            "Packing",
+            "Carry",
+            "Zip",
+            "Holiday"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sports & Hobbies",
+      "cards": [
+        {
+          "word": "Football",
+          "banned": [
+            "Goal",
+            "Pitch",
+            "Team",
+            "Referee"
+          ]
+        },
+        {
+          "word": "Tennis",
+          "banned": [
+            "Racket",
+            "Net",
+            "Serve",
+            "Court"
+          ]
+        },
+        {
+          "word": "Basketball",
+          "banned": [
+            "Hoop",
+            "Dribble",
+            "Court",
+            "Dunk"
+          ]
+        },
+        {
+          "word": "Swimming",
+          "banned": [
+            "Pool",
+            "Laps",
+            "Stroke",
+            "Goggles"
+          ]
+        },
+        {
+          "word": "Running",
+          "banned": [
+            "Jog",
+            "Marathon",
+            "Track",
+            "Shoes"
+          ]
+        },
+        {
+          "word": "Cycling",
+          "banned": [
+            "Helmet",
+            "Bike",
+            "Pedal",
+            "Tour"
+          ]
+        },
+        {
+          "word": "Golf",
+          "banned": [
+            "Club",
+            "Hole",
+            "Green",
+            "Tee"
+          ]
+        },
+        {
+          "word": "Yoga",
+          "banned": [
+            "Stretch",
+            "Mat",
+            "Poses",
+            "Breathing"
+          ]
+        },
+        {
+          "word": "Chess",
+          "banned": [
+            "Board",
+            "Checkmate",
+            "King",
+            "Strategy"
+          ]
+        },
+        {
+          "word": "Painting",
+          "banned": [
+            "Brush",
+            "Canvas",
+            "Colours",
+            "Easel"
+          ]
+        },
+        {
+          "word": "Guitar",
+          "banned": [
+            "Strings",
+            "Fret",
+            "Pick",
+            "Amplifier"
+          ]
+        },
+        {
+          "word": "Photography",
+          "banned": [
+            "Camera",
+            "Lens",
+            "Shot",
+            "Album"
+          ]
+        },
+        {
+          "word": "Fishing",
+          "banned": [
+            "Rod",
+            "Bait",
+            "River",
+            "Catch"
+          ]
+        },
+        {
+          "word": "Skateboarding",
+          "banned": [
+            "Deck",
+            "Wheels",
+            "Ramp",
+            "Tricks"
+          ]
+        },
+        {
+          "word": "Board Games",
+          "banned": [
+            "Dice",
+            "Players",
+            "Rules",
+            "Box"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Science & Nature",
+      "cards": [
+        {
+          "word": "Microscope",
+          "banned": [
+            "Cells",
+            "Lens",
+            "Slide",
+            "Science"
+          ]
+        },
+        {
+          "word": "Planet",
+          "banned": [
+            "Orbit",
+            "Space",
+            "Gravity",
+            "Round"
+          ]
+        },
+        {
+          "word": "Rocket",
+          "banned": [
+            "Launch",
+            "Space",
+            "Fuel",
+            "Astronaut"
+          ]
+        },
+        {
+          "word": "Rainbow",
+          "banned": [
+            "Colours",
+            "Rain",
+            "Sun",
+            "Arc"
+          ]
+        },
+        {
+          "word": "Thunderstorm",
+          "banned": [
+            "Lightning",
+            "Rain",
+            "Cloud",
+            "Rumble"
+          ]
+        },
+        {
+          "word": "Tree",
+          "banned": [
+            "Bark",
+            "Branches",
+            "Leaves",
+            "Roots"
+          ]
+        },
+        {
+          "word": "Ocean",
+          "banned": [
+            "Waves",
+            "Salt",
+            "Sea",
+            "Tide"
+          ]
+        },
+        {
+          "word": "Desert",
+          "banned": [
+            "Sand",
+            "Dry",
+            "Cactus",
+            "Hot"
+          ]
+        },
+        {
+          "word": "Glacier",
+          "banned": [
+            "Ice",
+            "Slow",
+            "Mountain",
+            "Melt"
+          ]
+        },
+        {
+          "word": "Fossil",
+          "banned": [
+            "Dinosaur",
+            "Rock",
+            "Ancient",
+            "Museum"
+          ]
+        },
+        {
+          "word": "Magnet",
+          "banned": [
+            "Attract",
+            "Iron",
+            "North",
+            "Poles"
+          ]
+        },
+        {
+          "word": "Experiment",
+          "banned": [
+            "Hypothesis",
+            "Lab",
+            "Test",
+            "Results"
+          ]
+        },
+        {
+          "word": "Solar System",
+          "banned": [
+            "Sun",
+            "Planets",
+            "Orbit",
+            "Earth"
+          ]
+        },
+        {
+          "word": "Bacteria",
+          "banned": [
+            "Microbe",
+            "Germs",
+            "Cells",
+            "Infection"
+          ]
+        },
+        {
+          "word": "Energy",
+          "banned": [
+            "Power",
+            "Electricity",
+            "Heat",
+            "Source"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Around the House",
+      "cards": [
+        {
+          "word": "Kitchen",
+          "banned": [
+            "Cook",
+            "Oven",
+            "Recipes",
+            "Counter"
+          ]
+        },
+        {
+          "word": "Bathroom",
+          "banned": [
+            "Shower",
+            "Toothbrush",
+            "Towel",
+            "Sink"
+          ]
+        },
+        {
+          "word": "Bedroom",
+          "banned": [
+            "Bed",
+            "Wardrobe",
+            "Sleep",
+            "Dressed"
+          ]
+        },
+        {
+          "word": "Garden",
+          "banned": [
+            "Flowers",
+            "Grass",
+            "Plants",
+            "Outside"
+          ]
+        },
+        {
+          "word": "Vacuum Cleaner",
+          "banned": [
+            "Carpets",
+            "Suction",
+            "Dust",
+            "Cleaning"
+          ]
+        },
+        {
+          "word": "Dishwasher",
+          "banned": [
+            "Plates",
+            "Wash",
+            "Cycle",
+            "Kitchen"
+          ]
+        },
+        {
+          "word": "Washing Machine",
+          "banned": [
+            "Clothes",
+            "Spin",
+            "Detergent",
+            "Laundry"
+          ]
+        },
+        {
+          "word": "Fridge",
+          "banned": [
+            "Cold",
+            "Food",
+            "Shelf",
+            "Milk"
+          ]
+        },
+        {
+          "word": "Microwave",
+          "banned": [
+            "Heat",
+            "Minutes",
+            "Button",
+            "Leftovers"
+          ]
+        },
+        {
+          "word": "Toaster",
+          "banned": [
+            "Bread",
+            "Slot",
+            "Brown",
+            "Breakfast"
+          ]
+        },
+        {
+          "word": "Sofa",
+          "banned": [
+            "Cushions",
+            "Sit",
+            "Living Room",
+            "Comfy"
+          ]
+        },
+        {
+          "word": "Lamp",
+          "banned": [
+            "Light",
+            "Shade",
+            "Switch",
+            "Table"
+          ]
+        },
+        {
+          "word": "Key",
+          "banned": [
+            "Lock",
+            "Door",
+            "Unlock",
+            "Ring"
+          ]
+        },
+        {
+          "word": "Curtains",
+          "banned": [
+            "Window",
+            "Fabric",
+            "Draw",
+            "Privacy"
+          ]
+        },
+        {
+          "word": "Doorbell",
+          "banned": [
+            "Ring",
+            "Visitor",
+            "Button",
+            "Entrance"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Entertainment",
+      "cards": [
+        {
+          "word": "Cinema",
+          "banned": [
+            "Screen",
+            "Film",
+            "Popcorn",
+            "Tickets"
+          ]
+        },
+        {
+          "word": "Concert",
+          "banned": [
+            "Stage",
+            "Singer",
+            "Crowd",
+            "Music"
+          ]
+        },
+        {
+          "word": "Theatre",
+          "banned": [
+            "Actors",
+            "Curtain",
+            "Play",
+            "Seats"
+          ]
+        },
+        {
+          "word": "Festival",
+          "banned": [
+            "Crowd",
+            "Music",
+            "Tents",
+            "Weekend"
+          ]
+        },
+        {
+          "word": "Circus",
+          "banned": [
+            "Clown",
+            "Tent",
+            "Acrobats",
+            "Animals"
+          ]
+        },
+        {
+          "word": "Video Game",
+          "banned": [
+            "Console",
+            "Controller",
+            "Level",
+            "Play"
+          ]
+        },
+        {
+          "word": "Cartoon",
+          "banned": [
+            "Animated",
+            "Draw",
+            "Characters",
+            "Kids"
+          ]
+        },
+        {
+          "word": "Documentary",
+          "banned": [
+            "Real",
+            "Facts",
+            "Film",
+            "Nature"
+          ]
+        },
+        {
+          "word": "Podcast",
+          "banned": [
+            "Listen",
+            "Episodes",
+            "Audio",
+            "Host"
+          ]
+        },
+        {
+          "word": "Celebrity",
+          "banned": [
+            "Famous",
+            "Paparazzi",
+            "Fan",
+            "Red Carpet"
+          ]
+        },
+        {
+          "word": "Amusement Park",
+          "banned": [
+            "Rides",
+            "Rollercoaster",
+            "Tickets",
+            "Fun"
+          ]
+        },
+        {
+          "word": "Magic Show",
+          "banned": [
+            "Illusion",
+            "Magician",
+            "Tricks",
+            "Hat"
+          ]
+        },
+        {
+          "word": "Quiz Show",
+          "banned": [
+            "Questions",
+            "Contestants",
+            "Prize",
+            "Host"
+          ]
+        },
+        {
+          "word": "Streaming",
+          "banned": [
+            "Netflix",
+            "Binge",
+            "Episodes",
+            "Screen"
+          ]
+        },
+        {
+          "word": "Award Ceremony",
+          "banned": [
+            "Trophy",
+            "Winners",
+            "Red Carpet",
+            "Speech"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Greek Mythology",
+      "cards": [
+        {
+          "word": "Zeus",
+          "banned": [
+            "Thunder",
+            "Lightning",
+            "Olympus",
+            "King"
+          ]
+        },
+        {
+          "word": "Hera",
+          "banned": [
+            "Marriage",
+            "Queen",
+            "Peacock",
+            "Jealous"
+          ]
+        },
+        {
+          "word": "Poseidon",
+          "banned": [
+            "Ocean",
+            "Trident",
+            "Sea",
+            "Horse"
+          ]
+        },
+        {
+          "word": "Hades",
+          "banned": [
+            "Underworld",
+            "Helm",
+            "Shadows",
+            "Dead"
+          ]
+        },
+        {
+          "word": "Athena",
+          "banned": [
+            "Wisdom",
+            "Owl",
+            "Olive",
+            "Strategy"
+          ]
+        },
+        {
+          "word": "Apollo",
+          "banned": [
+            "Sun",
+            "Lyre",
+            "Archery",
+            "Prophecy"
+          ]
+        },
+        {
+          "word": "Artemis",
+          "banned": [
+            "Moon",
+            "Hunt",
+            "Deer",
+            "Twin"
+          ]
+        },
+        {
+          "word": "Ares",
+          "banned": [
+            "War",
+            "Spear",
+            "Battle",
+            "Rage"
+          ]
+        },
+        {
+          "word": "Aphrodite",
+          "banned": [
+            "Love",
+            "Beauty",
+            "Shell",
+            "Cyprus"
+          ]
+        },
+        {
+          "word": "Hephaestus",
+          "banned": [
+            "Forge",
+            "Fire",
+            "Blacksmith",
+            "Lame"
+          ]
+        },
+        {
+          "word": "Hermes",
+          "banned": [
+            "Messenger",
+            "Winged",
+            "Speedy",
+            "Thief"
+          ]
+        },
+        {
+          "word": "Dionysus",
+          "banned": [
+            "Wine",
+            "Grapes",
+            "Party",
+            "Theatre"
+          ]
+        },
+        {
+          "word": "Medusa",
+          "banned": [
+            "Snakes",
+            "Gorgon",
+            "Stone",
+            "Head"
+          ]
+        },
+        {
+          "word": "Minotaur",
+          "banned": [
+            "Bull",
+            "Labyrinth",
+            "Maze",
+            "Crete"
+          ]
+        },
+        {
+          "word": "Trojan Horse",
+          "banned": [
+            "Wooden",
+            "Soldiers",
+            "Deception",
+            "Troy"
+          ]
+        }
+      ]
+    }
+  ]
+}
