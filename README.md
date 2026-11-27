@@ -12,6 +12,9 @@ pip install python-pptx tqdm
 `tqdm` is optional — the generator falls back to a built-in bar if it is not
 installed. Requires Python 3.10+.
 
+> [!IMPORTANT]
+> A template is required. An example template can be found [here](https://github.com/MeltingReactor/Taboo/releases/latest/download/Taboo!.pptx)
+
 ## Run
 
 ```powershell
