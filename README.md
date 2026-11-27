@@ -5,15 +5,19 @@ original deck's design, navigation and slide layout.
 
 ## Setup
 
+First, download the code [here](https://github.com/MeltingReactor/Taboo/archive/refs/tags/v1.0.0.zip)
+
+> [!IMPORTANT]
+> A template is required. An example template can be found [here](https://github.com/MeltingReactor/Taboo/releases/latest/download/Taboo.pptx)
+
+### Dependences
+
 ```powershell
 pip install python-pptx tqdm
 ```
 
 `tqdm` is optional — the generator falls back to a built-in bar if it is not
 installed. Requires Python 3.10+.
-
-> [!IMPORTANT]
-> A template is required. An example template can be found [here](https://github.com/MeltingReactor/Taboo/releases/latest/download/Taboo.pptx)
 
 ## Run
 
