@@ -13,7 +13,7 @@ pip install python-pptx tqdm
 installed. Requires Python 3.10+.
 
 > [!IMPORTANT]
-> A template is required. An example template can be found [here](https://github.com/MeltingReactor/Taboo/releases/latest/download/Taboo!.pptx)
+> A template is required. An example template can be found [here](https://github.com/MeltingReactor/Taboo/releases/latest/download/Taboo.pptx)
 
 ## Run
 
