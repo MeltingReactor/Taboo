@@ -1,6 +1,6 @@
 {
   "settings": {
-    "template": "Taboo!.pptx",
+    "template": "Taboo.pptx",
     "output": "Taboo!_FromSections.pptx",
     "seed": 20261127,
     "shuffle_cards": true,
