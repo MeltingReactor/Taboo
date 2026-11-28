@@ -5,7 +5,7 @@ original deck's design, navigation and slide layout.
 
 ## Setup
 
-First, download the code [here](https://github.com/MeltingReactor/Taboo/archive/refs/tags/v1.0.0.zip)
+First, download the code [here](https://github.com/MeltingReactor/Taboo/archive/refs/tags/v1.0.1.zip)
 
 > [!IMPORTANT]
 > A template is required. An example template can be found [here](https://github.com/MeltingReactor/Taboo/releases/latest/download/Taboo.pptx)
