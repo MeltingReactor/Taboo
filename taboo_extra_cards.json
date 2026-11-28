@@ -1,0 +1,173 @@
+{
+  "settings": {
+    "template": "Taboo!.pptx",
+    "output": "Taboo!_ExtraCards.pptx",
+    "seed": 20261128,
+    "shuffle_sections": true,
+    "shuffle_cards": true,
+    "banned_count": 4,
+    "number_start": 1,
+    "number_box_width": 600000,
+    "show_progress": true,
+    "force_progress": false,
+    "fallback_bar": false,
+    "footer_format": "Taboo • {section}",
+    "intro_section_name": "Taboo!",
+    "end_section_name": "End",
+    "front_slide_indices": [1, 2, 3],
+    "final_slide_index": -1,
+    "begin_button_text": "Begin!"
+  },
+  "sections": [
+    {
+      "name": "Holidays & Celebrations",
+      "cards": [
+        {"word": "Birthday", "banned": ["Cake", "Candles", "Party", "Presents"]},
+        {"word": "Christmas", "banned": ["Santa", "Tree", "Presents", "December"]},
+        {"word": "Halloween", "banned": ["Pumpkin", "Costume", "Ghost", "Candy"]},
+        {"word": "Easter", "banned": ["Bunny", "Eggs", "Chocolate", "Spring"]},
+        {"word": "Bonfire Night", "banned": ["Guy Fawkes", "Fireworks", "November", "Sparklers"]},
+        {"word": "New Year", "banned": ["Midnight", "Countdown", "Party", "Resolution"]},
+        {"word": "Wedding", "banned": ["Bride", "Groom", "Rings", "Vows"]},
+        {"word": "Anniversary", "banned": ["Years", "Marriage", "Gift", "Celebration"]},
+        {"word": "Fireworks", "banned": ["Sparkler", "Night", "Boom", "Display"]},
+        {"word": "Parade", "banned": ["Marching", "Floats", "Band", "Street"]}
+      ]
+    },
+    {
+      "name": "Money & Shopping",
+      "cards": [
+        {"word": "Wallet", "banned": ["Cash", "Cards", "Pocket", "Leather"]},
+        {"word": "Coin", "banned": ["Metal", "Change", "Mint", "Small"]},
+        {"word": "Banknote", "banned": ["Paper", "Cash", "Denomination", "Bank"]},
+        {"word": "Credit Card", "banned": ["Plastic", "Limit", "Payment", "Swipe"]},
+        {"word": "Receipt", "banned": ["Paper", "Purchase", "Total", "Store"]},
+        {"word": "Bargain", "banned": ["Cheap", "Deal", "Discount", "Sale"]},
+        {"word": "Auction", "banned": ["Bidding", "Hammer", "Buyer", "Price"]},
+        {"word": "Market", "banned": ["Stall", "Vendor", "Produce", "Shopping"]},
+        {"word": "Cashier", "banned": ["Register", "Payment", "Till", "Customer"]},
+        {"word": "Discount", "banned": ["Sale", "Reduced", "Coupon", "Off"]}
+      ]
+    },
+    {
+      "name": "Technology & Internet",
+      "cards": [
+        {"word": "Smartphone", "banned": ["Mobile", "App", "Screen", "Call"]},
+        {"word": "Tablet", "banned": ["Slate", "Gadget", "Reading", "Apps"]},
+        {"word": "Headphones", "banned": ["Ears", "Music", "Wires", "Sound"]},
+        {"word": "Charger", "banned": ["Cable", "Plug", "Battery", "Power"]},
+        {"word": "Browser", "banned": ["Chrome", "Tabs", "Internet", "Search"]},
+        {"word": "Email", "banned": ["Inbox", "Message", "Send", "Address"]},
+        {"word": "Password", "banned": ["Secret", "Login", "Characters", "Security"]},
+        {"word": "Wi-Fi", "banned": ["Wireless", "Network", "Signal", "Router"]},
+        {"word": "Printer", "banned": ["Paper", "Ink", "Document", "Output"]},
+        {"word": "Robot", "banned": ["Machine", "Automation", "Metal", "Artificial"]}
+      ]
+    },
+    {
+      "name": "Weather & Seasons",
+      "cards": [
+        {"word": "Snowfall", "banned": ["White", "Cold", "Winter", "Flakes"]},
+        {"word": "Sunshine", "banned": ["Bright", "Warm", "Daylight", "Rays"]},
+        {"word": "Breeze", "banned": ["Wind", "Gentle", "Air", "Cool"]},
+        {"word": "Fog", "banned": ["Mist", "Grey", "Visibility", "Cloud"]},
+        {"word": "Hail", "banned": ["Ice", "Stones", "Storm", "Pellets"]},
+        {"word": "Humidity", "banned": ["Damp", "Moist", "Sweaty", "Air"]},
+        {"word": "Frost", "banned": ["Ice", "Cold", "Morning", "Crystals"]},
+        {"word": "Monsoon", "banned": ["Rain", "Season", "Heavy", "Wind"]},
+        {"word": "Hurricane", "banned": ["Storm", "Wind", "Eye", "Damage"]},
+        {"word": "Sandstorm", "banned": ["Sand", "Desert", "Wind", "Dust"]}
+      ]
+    },
+    {
+      "name": "Art & Literature",
+      "cards": [
+        {"word": "Novel", "banned": ["Fiction", "Chapters", "Story", "Book"]},
+        {"word": "Poem", "banned": ["Verse", "Rhyme", "Lines", "Words"]},
+        {"word": "Painter", "banned": ["Canvas", "Brush", "Studio", "Art"]},
+        {"word": "Canvas", "banned": ["Cloth", "Paint", "Frame", "Artist"]},
+        {"word": "Sculpture", "banned": ["Statue", "Stone", "Carve", "Museum"]},
+        {"word": "Library", "banned": ["Books", "Shelves", "Quiet", "Borrow"]},
+        {"word": "Author", "banned": ["Writer", "Pen", "Publish", "Name"]},
+        {"word": "Comic Book", "banned": ["Panels", "Hero", "Speech", "Issue"]},
+        {"word": "Calligraphy", "banned": ["Fancy", "Writing", "Ink", "Script"]},
+        {"word": "Gallery", "banned": ["Exhibit", "Frames", "Museum", "Viewing"]}
+      ]
+    },
+    {
+      "name": "Music & Sound",
+      "cards": [
+        {"word": "Piano", "banned": ["Keys", "White", "Black", "Melody"]},
+        {"word": "Violin", "banned": ["Strings", "Bow", "Wood", "Orchestra"]},
+        {"word": "Drum", "banned": ["Beat", "Sticks", "Rhythm", "Percussion"]},
+        {"word": "Trumpet", "banned": ["Brass", "Horn", "Blow", "Jazz"]},
+        {"word": "Microphone", "banned": ["Voice", "Stand", "Sing", "Sound"]},
+        {"word": "Playlist", "banned": ["Songs", "Order", "Queue", "Music"]},
+        {"word": "Rhythm", "banned": ["Beat", "Tempo", "Pulse", "Dance"]},
+        {"word": "Chorus", "banned": ["Singing", "Repeated", "Voices", "Song"]},
+        {"word": "Opera", "banned": ["Singers", "Stage", "Costume", "Theatre"]},
+        {"word": "Stereo", "banned": ["Speakers", "Sound", "Left", "Right"]}
+      ]
+    },
+    {
+      "name": "Health & Body",
+      "cards": [
+        {"word": "Dentist", "banned": ["Teeth", "Brush", "Cavities", "Chair"]},
+        {"word": "Medicine", "banned": ["Pill", "Syrup", "Doctor", "Cure"]},
+        {"word": "Bandage", "banned": ["Cut", "Wound", "Plaster", "Wrap"]},
+        {"word": "Fever", "banned": ["Temperature", "Hot", "Sick", "Sweat"]},
+        {"word": "Exercise", "banned": ["Workout", "Gym", "Move", "Fitness"]},
+        {"word": "Heart", "banned": ["Pulse", "Chest", "Blood", "Love"]},
+        {"word": "Brain", "banned": ["Thinking", "Head", "Memory", "Mind"]},
+        {"word": "Skin", "banned": ["Cover", "Body", "Touch", "Layer"]},
+        {"word": "Sleep", "banned": ["Bed", "Night", "Dream", "Rest"]},
+        {"word": "Vitamins", "banned": ["Supplements", "Health", "Orange", "Daily"]}
+      ]
+    },
+    {
+      "name": "Space & Time",
+      "cards": [
+        {"word": "Astronaut", "banned": ["Space", "Helmet", "Suit", "Moon"]},
+        {"word": "Galaxy", "banned": ["Stars", "Milky", "Universe", "Spiral"]},
+        {"word": "Comet", "banned": ["Tail", "Orbit", "Ice", "Space"]},
+        {"word": "Meteor", "banned": ["Shooting", "Star", "Rock", "Sky"]},
+        {"word": "Orbit", "banned": ["Circle", "Planet", "Path", "Around"]},
+        {"word": "Satellite", "banned": ["Moon", "Signal", "Launch", "Space"]},
+        {"word": "Telescope", "banned": ["Lens", "Stars", "Sky", "Look"]},
+        {"word": "Time Machine", "banned": ["Future", "Past", "Travel", "Science"]},
+        {"word": "Hourglass", "banned": ["Sand", "Time", "Glass", "Turn"]},
+        {"word": "Stopwatch", "banned": ["Timer", "Seconds", "Race", "Clock"]}
+      ]
+    },
+    {
+      "name": "Myths & Legends",
+      "cards": [
+        {"word": "Dragon", "banned": ["Fire", "Scales", "Wings", "Knight"]},
+        {"word": "Unicorn", "banned": ["Horn", "White", "Horse", "Magic"]},
+        {"word": "Mermaid", "banned": ["Tail", "Sea", "Hair", "Song"]},
+        {"word": "Giant", "banned": ["Big", "Tall", "Castle", "Strength"]},
+        {"word": "Wizard", "banned": ["Hat", "Wand", "Spell", "Magic"]},
+        {"word": "Sorceress", "banned": ["Magic", "Spell", "Woman", "Potion"]},
+        {"word": "Phoenix", "banned": ["Fire", "Bird", "Ashes", "Rebirth"]},
+        {"word": "Griffin", "banned": ["Eagle", "Lion", "Wings", "Myth"]},
+        {"word": "Kraken", "banned": ["Sea", "Tentacles", "Ship", "Monster"]},
+        {"word": "Fairy Tale", "banned": ["Story", "Princess", "Castle", "Once"]}
+      ]
+    },
+    {
+      "name": "Jobs & Tools",
+      "cards": [
+        {"word": "Carpenter", "banned": ["Wood", "Hammer", "Build", "Saw"]},
+        {"word": "Electrician", "banned": ["Wires", "Power", "Switch", "Safety"]},
+        {"word": "Chef", "banned": ["Kitchen", "Cook", "Recipe", "Restaurant"]},
+        {"word": "Pilot", "banned": ["Plane", "Sky", "Cockpit", "Fly"]},
+        {"word": "Surgeon", "banned": ["Operation", "Scalpel", "Hospital", "Doctor"]},
+        {"word": "Mechanic", "banned": ["Car", "Engine", "Repair", "Garage"]},
+        {"word": "Hammer", "banned": ["Nail", "Tool", "Hit", "Wood"]},
+        {"word": "Screwdriver", "banned": ["Screw", "Tool", "Twist", "Handle"]},
+        {"word": "Ladder", "banned": ["Climb", "Rungs", "Height", "Steps"]},
+        {"word": "Paintbrush", "banned": ["Bristles", "Paint", "Handle", "Stroke"]}
+      ]
+    }
+  ]
+}
